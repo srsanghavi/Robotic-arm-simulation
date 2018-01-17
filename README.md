@@ -1,4 +1,8 @@
-# Robot-motion-planning
+# Robotic arm simulation: Blocks word problem
+• Plan motions/movements for the Puma robotic arm to move blocks to stack them in the desired order using python and openRave
+• Implemented kinematic, inverse kinematics, biRRT, and data structure to find a set of collision-free movements of robotic arm
+• Enabled the algorithm to find solution for any number of input blocks
+
 
 cs5335_puma.py contains a code to simulate the program. <br>
 <b>Command to run the file:</b> python cs5335_puma.py <outputStackOrder> <environmentFile><br>
